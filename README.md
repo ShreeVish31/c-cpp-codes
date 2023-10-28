@@ -1,1 +1,1 @@
-c and c++ codes are uploaded here...!!
+c and c++ codes and mini projects are uploaded here...!!
